@@ -30,3 +30,24 @@ I downloaded the encrypted PDF file and uploaded it to a hash extractor website.
 
 Screenshot:
 - Screenshot showing the downloaded tool or its location.
+
+# Step 3: Obtain the password hash
+Explain which website you visited, what you entered or uploaded, and how you obtained the hash.
+
+Screenshot:
+Screenshot of the website.
+Screenshot showing the generated hash (if safe to share).
+
+# Step 4: Perform the password-cracking exercise
+Explain which tool you used, what command you entered and what happened.
+
+Screenshot:
+Screenshot of the command being executed.
+Screenshot showing the output.
+
+# Step 5: Verify the results
+Explain whether the password was successfully recovered and what the final output showed.
+
+Screenshot:
+- Screenshot of the successful result or relevant error/output.
+These are examples of how to structure the documentation. Your actual steps should match your internship instructions.
