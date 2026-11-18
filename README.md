@@ -55,3 +55,5 @@ Screenshot: </br>
 I downloaded the locked PDF files from the NetworkWalks lab page. I then opened the Networkwalks Hash Calculator in my web browser and uploaded the PDF file. The tool read the file and gave you the hash value.
 
 Screenshot: </br>
+
+# Step 2: 
