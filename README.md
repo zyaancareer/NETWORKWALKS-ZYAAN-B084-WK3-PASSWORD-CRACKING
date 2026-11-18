@@ -32,21 +32,21 @@ Screenshot:
 - Screenshot showing the downloaded tool or its location.
 
 # Step 3: Obtain the password hash
-Explain which website you visited, what you entered or uploaded, and how you obtained the hash.
+After receiving the hash value, I saved to to my notepad as a txt file.
 
 Screenshot:
 Screenshot of the website.
 Screenshot showing the generated hash (if safe to share).
 
 # Step 4: Perform the password-cracking exercise
-Explain which tool you used, what command you entered and what happened.
+I then opened Johnny and uploaded the txt file containing the hash value and executed the first command.
 
 Screenshot:
 Screenshot of the command being executed.
 Screenshot showing the output.
 
 # Step 5: Verify the results
-Explain whether the password was successfully recovered and what the final output showed.
+The password was then successfully recovered and I was able to open the pdf file.
 
 Screenshot:
 - Screenshot of the successful result or relevant error/output.
