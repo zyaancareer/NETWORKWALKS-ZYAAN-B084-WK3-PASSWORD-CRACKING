@@ -38,13 +38,14 @@ Screenshot: </br>
 # Step 3: Perform the password-cracking exercise
 I then opened Johnny and uploaded the txt file containing the hash value and executed the first command.
 
-Screenshot:
-Screenshot of the command being executed.
-Screenshot showing the output.
+Screenshot: </br>
+
+<img width=50% height="689" alt="comand_execution" src="https://github.com/user-attachments/assets/1c0b3be4-df71-4b17-9788-8d4a5e304bc0" />
+
 
 # Step 5: Verify the results
 The password was then successfully recovered and I was able to open the pdf file.
 
-Screenshot:
-- Screenshot of the successful result or relevant error/output.
-These are examples of how to structure the documentation. Your actual steps should match your internship instructions.
+<img width=50% height="769" alt="pdf1_password" src="https://github.com/user-attachments/assets/872ef28b-1074-4715-8ccb-b9df4bf57257" />
+
+
