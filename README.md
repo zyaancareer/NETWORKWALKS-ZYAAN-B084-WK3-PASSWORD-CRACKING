@@ -22,23 +22,20 @@ How I did it:
 - Downloaded the required software.
 - Followed the installation instructions.
 
-Screenshot:
-- Screenshot of the software installed or successfully opened.
+Screenshot: </br>
+
+<img width=50% height="691" alt="johnny_gui" src="https://github.com/user-attachments/assets/7720745a-2004-487c-ad8b-117abf0201db" />
+
 
 # Step 2: Download the required tool
-I downloaded the encrypted PDF file and uploaded it to a hash extractor website.
+I downloaded the encrypted PDF file and uploaded it to a hash extractor website. After receiving the hash value, I saved to to my notepad as a txt file.
 
-Screenshot:
-- Screenshot showing the downloaded tool or its location.
+Screenshot: </br>
 
-# Step 3: Obtain the password hash
-After receiving the hash value, I saved to to my notepad as a txt file.
+<img width=50% height="520" alt="hash_extractor" src="https://github.com/user-attachments/assets/261be994-7d44-4c0d-af18-5dd7cc362369" />
 
-Screenshot:
-Screenshot of the website.
-Screenshot showing the generated hash (if safe to share).
 
-# Step 4: Perform the password-cracking exercise
+# Step 3: Perform the password-cracking exercise
 I then opened Johnny and uploaded the txt file containing the hash value and executed the first command.
 
 Screenshot:
