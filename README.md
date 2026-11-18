@@ -44,8 +44,14 @@ Screenshot: </br>
 
 
 # Step 5: Verify the results
-The password was then successfully recovered and I was able to open the pdf file.
+The password was then successfully recovered and I was able to open the PDF file.
+
+Screenshot: </br>
 
 <img width=50% height="769" alt="pdf1_password" src="https://github.com/user-attachments/assets/872ef28b-1074-4715-8ccb-b9df4bf57257" />
 
+# NetworkWalk Tools
+# Step 1: Download the files and open Networkwalks Hash Calculator
+I downloaded the locked PDF files from the NetworkWalks lab page. I then opened the Networkwalks Hash Calculator in my web browser and uploaded the PDF file. The tool read the file and gave you the hash value.
 
+Screenshot: </br>
