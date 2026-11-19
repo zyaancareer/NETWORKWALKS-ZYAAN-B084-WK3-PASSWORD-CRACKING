@@ -24,7 +24,7 @@ How I did it:
 
 Screenshot: </br>
 
-<img width=50% height="691" alt="johnny_gui" src="https://github.com/user-attachments/assets/7720745a-2004-487c-ad8b-117abf0201db" />
+<img width=400 height=300 alt="johnny_gui" src="https://github.com/user-attachments/assets/7720745a-2004-487c-ad8b-117abf0201db" />
 
 
 # Step 2: Download the required tool
@@ -40,7 +40,7 @@ I then opened Johnny and uploaded the txt file containing the hash value and exe
 
 Screenshot: </br>
 
-<img width=50% height="689" alt="comand_execution" src="https://github.com/user-attachments/assets/1c0b3be4-df71-4b17-9788-8d4a5e304bc0" />
+<img width=400 height="300" alt="comand_execution" src="https://github.com/user-attachments/assets/1c0b3be4-df71-4b17-9788-8d4a5e304bc0" />
 
 
 # Step 5: Verify the results
@@ -48,15 +48,20 @@ The password was then successfully recovered and I was able to open the PDF file
 
 Screenshot: </br>
 
-<img width=50% height="769" alt="pdf1_password" src="https://github.com/user-attachments/assets/872ef28b-1074-4715-8ccb-b9df4bf57257" />
+<img width=400 height=300 alt="pdf1_password" src="https://github.com/user-attachments/assets/872ef28b-1074-4715-8ccb-b9df4bf57257" />
 
 # NetworkWalk Tools
 # Step 1: Download the files and open Networkwalks Hash Calculator
 I downloaded the locked PDF files from the NetworkWalks lab page. I then opened the Networkwalks Hash Calculator in my web browser and uploaded the PDF file. The tool read the file and gave me the hash value.
 
-Screenshot: </br>
+Screenshots: </br>
 
 # Step 2: Use Networkwalks Password Cracker
 I copied the full hash value given to me and pasted it into the Password Cracker. I then uploaded the default password text file and started the attack.
 
-Screenshot: </br>
+Screenshots: </br>
+
+# Step 3: Verify the results
+Once finished. The cracked password was shown on the screen and I was able to open the PDF file. I used the same method for the rest of the pdf files that needed to be opened.
+
+Screenshots: </br>
