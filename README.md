@@ -22,7 +22,7 @@ How I did it:
 - Downloaded the required software.
 - Followed the installation instructions.
 
-Screenshot: </br>
+Screenshots: </br>
 
 <img width=400 height=300 alt="johnny_gui" src="https://github.com/user-attachments/assets/7720745a-2004-487c-ad8b-117abf0201db" />
 
@@ -30,7 +30,7 @@ Screenshot: </br>
 # Step 2: Download the required tool
 I downloaded the encrypted PDF file and uploaded it to a hash extractor website. After receiving the hash value, I saved to to my notepad as a txt file.
 
-Screenshot: </br>
+Screenshots: </br>
 
 <img width=50% height="520" alt="hash_extractor" src="https://github.com/user-attachments/assets/261be994-7d44-4c0d-af18-5dd7cc362369" />
 
@@ -38,7 +38,7 @@ Screenshot: </br>
 # Step 3: Perform the password-cracking exercise
 I then opened Johnny and uploaded the txt file containing the hash value and executed the first command.
 
-Screenshot: </br>
+Screenshots: </br>
 
 <img width=400 height="300" alt="comand_execution" src="https://github.com/user-attachments/assets/1c0b3be4-df71-4b17-9788-8d4a5e304bc0" />
 
@@ -46,7 +46,7 @@ Screenshot: </br>
 # Step 5: Verify the results
 The password was then successfully recovered and I was able to open the PDF file.
 
-Screenshot: </br>
+Screenshots: </br>
 
 <img width=400 height=300 alt="pdf1_password" src="https://github.com/user-attachments/assets/872ef28b-1074-4715-8ccb-b9df4bf57257" />
 
@@ -71,3 +71,16 @@ Screenshots: </br>
 Once finished. The cracked password was shown on the screen and I was able to open the PDF file. I used the same method for the rest of the pdf files that needed to be opened.
 
 Screenshots: </br>
+
+<table>
+  <tr>
+    <td><img width="400" height="300" alt="pdf2_password" src="https://github.com/user-attachments/assets/34d7adc1-3b53-4327-94cd-d3710507b8eb" /></td>
+    <td><img width="400" height="300" alt="pdf1_nwpassord" src="https://github.com/user-attachments/assets/b74e8a34-5476-45d3-ac28-8b156ae4295e" /></td>
+    <td><img width="400" height="300" alt="pdf3_password" src="https://github.com/user-attachments/assets/28a97b24-3868-4edc-bcc5-4e67aacdd373" /></td>
+  </tr>
+</table>
+
+# Conclusion
+The practical exercise provided hands-on experience in using the NetworkWalks tools as well as John the Ripper to perform password recovery. I successfully completed the required steps, from processing the input file to recovering the password.
+
+This exercise helped me understand how password hashes are generated and used in password cracking processes, as well as how different tools work together to achieve the desired result.
