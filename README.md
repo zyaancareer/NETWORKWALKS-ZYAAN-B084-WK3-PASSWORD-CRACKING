@@ -56,10 +56,16 @@ I downloaded the locked PDF files from the NetworkWalks lab page. I then opened 
 
 Screenshots: </br>
 
+<img width="400" height="300" alt="hash_calculator" src="https://github.com/user-attachments/assets/56bafe67-67c5-4171-a4bb-0b973954f5a8" />
+
+
 # Step 2: Use Networkwalks Password Cracker
 I copied the full hash value given to me and pasted it into the Password Cracker. I then uploaded the default password text file and started the attack.
 
 Screenshots: </br>
+
+<img width="400" height="300" alt="password_cracker" src="https://github.com/user-attachments/assets/55f386e7-6143-41d2-ac64-26d8a43fceba" />
+
 
 # Step 3: Verify the results
 Once finished. The cracked password was shown on the screen and I was able to open the PDF file. I used the same method for the rest of the pdf files that needed to be opened.
