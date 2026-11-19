@@ -84,3 +84,7 @@ Screenshots: </br>
 The practical exercise provided hands on experience in using the NetworkWalks tools as well as John the Ripper to perform password recovery. I successfully completed the required steps, from processing the input file to recovering the password.
 
 This exercise helped me understand how password hashes are generated and used in password cracking processes, as well as how different tools work together to achieve the desired result.
+
+# Author
+Zyaan Makda
+LinkedIn: https://linkedin.com/in/zyaan-career
