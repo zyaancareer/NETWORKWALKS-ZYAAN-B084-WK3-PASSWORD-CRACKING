@@ -1,18 +1,18 @@
-# Password Cracking With John the Ripper and NetworkWalks Tools 
+# Password Cracking with John the Ripper and NetworkWalks Tools 
 # Objectives
 This exercise helps you learn how password cracking works and why it is important to use strong passwords for protection.
 
 # Tools & Resources
 | Tools | Purpose |
 |--------| --------- |
-|Jonny GUI| Graphical Interface for running Jack the Ripper. |
+|Johnny | Graphical Interface for running John the Ripper. |
 | PDF Hash Extractor | Extracts password hashes from PDF files. |
 | NetworkWalks Hash Calculator | Generates password hashes from PDF files. |
-| Networkwalks Password Cracker | Attempts to recover passwords from extracted hashes. |
+| NetworkWalks Password Cracker | Attempts to recover passwords from extracted hashes. |
 
 # Procedure
 # John the Ripper                         
-# Step 1: Download and install the required software
+### Step 1: Download and install the required software
 
 What I did:
 Downloaded and installed the John the Ripper and Johnny GUI software required for the password cracking exercise.
@@ -27,39 +27,39 @@ Screenshots: </br>
 <img width=400 height=300 alt="johnny_gui" src="https://github.com/user-attachments/assets/7720745a-2004-487c-ad8b-117abf0201db" />
 
 
-# Step 2: Download the required tool
-I downloaded the encrypted PDF file and uploaded it to a hash extractor website. After receiving the hash value, I saved to to my notepad as a txt file.
+### Step 2: Extract the PDF Hash
+I downloaded the encrypted PDF file and uploaded it to a hash extractor website. After receiving the hash value, I saved it to my Notepad as a text file.
 
 Screenshots: </br>
 
 <img width=50% height="520" alt="hash_extractor" src="https://github.com/user-attachments/assets/261be994-7d44-4c0d-af18-5dd7cc362369" />
 
 
-# Step 3: Perform the password-cracking exercise
-I then opened Johnny and uploaded the txt file containing the hash value and executed the first command.
+### Step 3: Perform the password-cracking exercise
+I then opened Johnny and uploaded the text file containing the hash value, and executed the first command.
 
 Screenshots: </br>
 
 <img width=400 height="300" alt="comand_execution" src="https://github.com/user-attachments/assets/1c0b3be4-df71-4b17-9788-8d4a5e304bc0" />
 
 
-# Step 5: Verify the results
-The password was then successfully recovered and I was able to open the PDF file.
+### Step 4: Verify the results
+The password was then successfully recovered, and I was able to open the PDF file.
 
 Screenshots: </br>
 
 <img width=400 height=300 alt="pdf1_password" src="https://github.com/user-attachments/assets/872ef28b-1074-4715-8ccb-b9df4bf57257" />
 
-# NetworkWalk Tools
-# Step 1: Download the files and open Networkwalks Hash Calculator
-I downloaded the locked PDF files from the NetworkWalks lab page. I then opened the Networkwalks Hash Calculator in my web browser and uploaded the PDF file. The tool read the file and gave me the hash value.
+# NetworkWalks Tools
+### Step 1: Download the files and open NetworkWalks Hash Calculator
+I downloaded the locked PDF files from the NetworkWalks lab page. I then opened the NetworkWalks Hash Calculator in my web browser and uploaded the PDF file. The tool read the file and gave me the hash value.
 
 Screenshots: </br>
 
 <img width="400" height="300" alt="hash_calculator" src="https://github.com/user-attachments/assets/56bafe67-67c5-4171-a4bb-0b973954f5a8" />
 
 
-# Step 2: Use Networkwalks Password Cracker
+### Step 2: Use Networkwalks Password Cracker
 I copied the full hash value given to me and pasted it into the Password Cracker. I then uploaded the default password text file and started the attack.
 
 Screenshots: </br>
@@ -67,8 +67,8 @@ Screenshots: </br>
 <img width="400" height="300" alt="password_cracker" src="https://github.com/user-attachments/assets/55f386e7-6143-41d2-ac64-26d8a43fceba" />
 
 
-# Step 3: Verify the results
-Once finished. The cracked password was shown on the screen and I was able to open the PDF file. I used the same method for the rest of the pdf files that needed to be opened.
+### Step 3: Verify the results
+Once finished. The cracked password was shown on the screen, and I was able to open the PDF file. I used the same method for the rest of the PDF files that needed to be opened.
 
 Screenshots: </br>
 
@@ -81,6 +81,6 @@ Screenshots: </br>
 </table>
 
 # Conclusion
-The practical exercise provided hands-on experience in using the NetworkWalks tools as well as John the Ripper to perform password recovery. I successfully completed the required steps, from processing the input file to recovering the password.
+The practical exercise provided hands on experience in using the NetworkWalks tools as well as John the Ripper to perform password recovery. I successfully completed the required steps, from processing the input file to recovering the password.
 
 This exercise helped me understand how password hashes are generated and used in password cracking processes, as well as how different tools work together to achieve the desired result.
