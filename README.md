@@ -52,8 +52,11 @@ Screenshot: </br>
 
 # NetworkWalk Tools
 # Step 1: Download the files and open Networkwalks Hash Calculator
-I downloaded the locked PDF files from the NetworkWalks lab page. I then opened the Networkwalks Hash Calculator in my web browser and uploaded the PDF file. The tool read the file and gave you the hash value.
+I downloaded the locked PDF files from the NetworkWalks lab page. I then opened the Networkwalks Hash Calculator in my web browser and uploaded the PDF file. The tool read the file and gave me the hash value.
 
 Screenshot: </br>
 
-# Step 2: 
+# Step 2: Use Networkwalks Password Cracker
+I copied the full hash value given to me and pasted it into the Password Cracker. I then uploaded the default password text file and started the attack.
+
+Screenshot: </br>
