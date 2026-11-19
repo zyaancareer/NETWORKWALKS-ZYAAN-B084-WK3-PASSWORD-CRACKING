@@ -88,3 +88,6 @@ This exercise helped me understand how password hashes are generated and used in
 # Author
 Zyaan Makda
 LinkedIn: https://linkedin.com/in/zyaan-career
+
+# Disclaimer
+This project is intended for educational purposes only. All tools and techniques demonstrated should only be used on files and systems that you own or have explicit permission to test. The author is not responsible for any misuse of the information provided.
