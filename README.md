@@ -87,6 +87,7 @@ This exercise helped me understand how password hashes are generated and used in
 
 # Author
 Zyaan Makda
+IT Database Development Graduate
 LinkedIn: https://linkedin.com/in/zyaan-career
 
 # Disclaimer
